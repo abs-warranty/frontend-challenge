@@ -45,7 +45,7 @@ export default function handler(req, res) {
           size: '33X12.50R20 LT',
         },
         {
-          index: 0,
+          index: 1,
           dot: '1234',
           make: 'VENOMPOWER',
           model: 'TRAIL HUNTER R/T',
